@@ -1,0 +1,526 @@
+C:\Users\Asus\source\repos\Phone shop\Phone shop\bin\Debug\Phone shop.exe.config
+C:\Users\Asus\source\repos\Phone shop\Phone shop\bin\Debug\Phone shop.exe
+C:\Users\Asus\source\repos\Phone shop\Phone shop\bin\Debug\Phone shop.pdb
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone shop.exe
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone shop.pdb
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.addcustomerControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.addemployeeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.additemControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.attendanceControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.barcodesControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.billControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.deleteitemControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.HomeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.removecustomerControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.removeemployeeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.reportsControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.searchemployeeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.searchitemControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.updateemployeeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.updateitemControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.viewemployeeeControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone_shop.viewitemControl1.resources
+C:\Users\Asus\source\repos\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.AssemblyReference.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Phone shop.exe.config
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.addcustomerControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.addemployeeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.additemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.attendanceControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.billControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.deleteitemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.HomeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.reportsControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.viewitemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.GenerateResource.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.CoreCompileInputs.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.StaffAttendenceControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.CustomerCardControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\EnvDTE.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\stdole.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.csproj.CopyComplete
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.FormPrintBill.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\RdlCompile.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\RdlCompile.compiled
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.SalesControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.TransferControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.FormCreateAcc.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.FormLoginAJM.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.ReturnControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.csprojAssemblyReference.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\bin\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone shop\Phone shop\obj\Debug\Phone_shop.SelectSalesmanFrm.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe.config
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\FireSharp.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\EnvDTE.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\stdole.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.App.config
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csprojAssemblyReference.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddCustomerControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddEmployeeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AttendanceControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.BillControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.CustomerCardControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.DeleteItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormCreateAcc.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormLoginAJM.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormPrintBill.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.HomeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ReportsControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ReturnControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.SalesControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.SelectSalesmanFrm.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.StaffAttendenceControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.TransferControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ViewItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.GenerateResource.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\RdlCompile.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\RdlCompile.compiled
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.CoreCompileInputs.cache
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.CopyComplete
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe.config
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\FireSharp.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\EnvDTE.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\stdole.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.App.config
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddCustomerControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddEmployeeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AddItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.AttendanceControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.BillControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.CustomerCardControl.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.DeleteItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormCreateAcc.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormLoginAJM.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.FormPrintBill.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.HomeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ReportsControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ReturnControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.SalesControl.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.SelectSalesmanFrm.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.TransferControl.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone_shop.ViewItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.GenerateResource.cache
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\RdlCompile.cache
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\RdlCompile.compiled
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.CoreCompileInputs.cache
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csproj.CopyComplete
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Final Project\Phone shop - Copy\Phone shop\obj\Debug\Phone shop.csprojAssemblyReference.cache
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Phone shop.exe.config
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Phone shop.pdb
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\FireSharp.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\EnvDTE.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\stdole.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.csproj.App.config
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.AddCustomerControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.AddEmployeeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.AddItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.AttendanceControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.BillControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.CustomerCardControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.DeleteItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.Form1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.FormCreateAcc.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.FormLoginAJM.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.FormPrintBill.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.HomeControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.Properties.Resources.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.ReportsControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.ReturnControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.SalesControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.SelectSalesmanFrm.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.TransferControl.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone_shop.ViewItemControl1.resources
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.csproj.GenerateResource.cache
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\RdlCompile.cache
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\RdlCompile.compiled
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.csproj.CoreCompileInputs.cache
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.exe.manifest
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.application
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.csproj.CopyComplete
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.exe
+C:\Users\Gayana Senarathna\Desktop\Phone Shop  System Final(v1.1)\Phone shop\obj\Debug\Phone shop.pdb
